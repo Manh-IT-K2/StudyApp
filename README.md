@@ -1,16 +1,36 @@
-# firebase_app
+# STUDY APP
+## Team  Members:
+```bash
+Saigon University ,Faculty of Information Technology ,Major in Software Engineering
+ID          | Full Name
+3120410316    Quan Văn Mạnh
+```
+## Project Description:
+Build a teaching app with basic functions
+## Tech Stack Used:
+```bash
+    * Dart
+    * Firebase
+```
+## App Functions:
+```bash
+   * Login(google) / Register / Logout
+   * EditProfile
+   * See lesson
+```
+## [Project Demo Link](hi?)
+## Some features of the site:
+Home Page                   |                   Introduce Page
+:---------------------------------:        |      :------------------------------:
+<img src="./assets/images/screen_home_app.png" height="200">  | <img src="./assets/images/screen_welcome_app.png" height="200">
 
-A new Flutter project.
+Login Page                   |                   SignUp Page
+:---------------------------------:        |      :------------------------------:
+<img src="./assets/images/screen_login_app.png" height="200">  | <img src="./assets/images/screen_signup_app.png" height="200">
 
-## Getting Started
+EditProfile Page                   |             
+:---------------------------------:        
+<img src="./assets/images/screen_editprofile_app.png" height="200">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Make sure to star the repository if you find it helpful!
+<a href="https://github.com/Quynh-Linh-IT/To-Do-Note-Application-Website/stargazers"><img src="https://img.shields.io/github/stars/Quynh-Linh-IT/To-Do-Note-Application-Website?color=yellow" alt="Stars Badge"/></a>
