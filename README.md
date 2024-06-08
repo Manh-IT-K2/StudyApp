@@ -33,4 +33,4 @@ EditProfile Page                   |
 <img src="./assets/images/screen_editprofile_app.png" height="500">
 
 ### Make sure to star the repository if you find it helpful!
-<a href="https://github.com/Quynh-Linh-IT/To-Do-Note-Application-Website/stargazers"><img src="https://img.shields.io/github/stars/Quynh-Linh-IT/To-Do-Note-Application-Website?color=yellow" alt="Stars Badge"/></a>
+<a href="https://github.com/Manh-IT-K2/StudyApp/stargazers"><img src="https://img.shields.io/github/stars/Manh-IT-K2/StudyApp?color=yellow" alt="Stars Badge"/></a>
