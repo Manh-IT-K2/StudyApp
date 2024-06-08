@@ -22,15 +22,15 @@ Build a teaching app with basic functions
 ## Some features of the site:
 Home Page                   |                   Introduce Page
 :---------------------------------:        |      :------------------------------:
-<img src="./assets/images/screen_home_app.png" height="200">  | <img src="./assets/images/screen_welcome_app.png" height="200">
+<img src="./assets/images/screen_home_app.png" height="500">  | <img src="./assets/images/screen_welcome_app.png" height="500">
 
 Login Page                   |                   SignUp Page
 :---------------------------------:        |      :------------------------------:
-<img src="./assets/images/screen_login_app.png" height="200">  | <img src="./assets/images/screen_signup_app.png" height="200">
+<img src="./assets/images/screen_login_app.png" height="500">  | <img src="./assets/images/screen_signup_app.png" height="500">
 
 EditProfile Page                   |             
 :---------------------------------:        
-<img src="./assets/images/screen_editprofile_app.png" height="200">
+<img src="./assets/images/screen_editprofile_app.png" height="500">
 
 ### Make sure to star the repository if you find it helpful!
 <a href="https://github.com/Quynh-Linh-IT/To-Do-Note-Application-Website/stargazers"><img src="https://img.shields.io/github/stars/Quynh-Linh-IT/To-Do-Note-Application-Website?color=yellow" alt="Stars Badge"/></a>
